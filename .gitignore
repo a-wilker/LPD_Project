@@ -1,0 +1,14 @@
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar vídeos de teste pesados (se você tiver algum na pasta)
+*.mp4
+*.avi
+
+# Ignorar chaves de API ou configs locais (boas práticas)
+.env
