@@ -1,4 +1,4 @@
-# LPR Project - Detector de Placas Veiculares
+# LPD Project - Detector de Placas Veiculares
 
 Este projeto é um sistema de visão computacional desenvolvido para a disciplina de Engenharia da Computação. O objetivo é detectar veículos em vídeo, localizar suas placas e extrair os caracteres (OCR) em tempo real.
 
@@ -21,4 +21,5 @@ Este projeto é um sistema de visão computacional desenvolvido para a disciplin
    ```bash
 
    pip install -r requirements.txt
+
 
