@@ -19,4 +19,6 @@ Este projeto é um sistema de visão computacional desenvolvido para a disciplin
 1. Clone o repositório.
 2. Instale as dependências:
    ```bash
+3. Criar pasta dos dados.
+
    pip install -r requirements.txt
